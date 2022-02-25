@@ -27,5 +27,8 @@
 - npm install cors in both posts and comments
 - npm start
 
-## Comment Creation
-- very the same, just focus more on typo.
+## Write 4 js file
+- `PostCreate.js`
+- `PostList.js`
+- `CommentCreate.js`
+- `CommentList.js`

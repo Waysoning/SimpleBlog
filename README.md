@@ -26,3 +26,6 @@
 - cannot post from one port to another
 - npm install cors in both posts and comments
 - npm start
+
+## Comment Creation
+- very the same, just focus more on typo.

@@ -13,3 +13,8 @@
 - configure package.json with `"start": "nodemon index.js"`
 - npm start
 - test by postman
+
+## React Setup
+
+- client: npm install axios
+- client: npm start

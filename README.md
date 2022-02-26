@@ -64,4 +64,5 @@
 - handle moderation
 - update comment content
 - render comments by status
-
+- deal with missing events
+- event sync

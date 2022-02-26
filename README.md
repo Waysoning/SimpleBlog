@@ -53,3 +53,6 @@
 - configure package.json with `"start": "nodemon index.js"`
 - npm start
 
+## parse incoming events
+- create data structure to store posts and comments
+

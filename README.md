@@ -43,3 +43,6 @@
 ## emit events
 - emit post creation and comment creation event
 
+## receive events
+- handle the events received in post creation and comment creation
+

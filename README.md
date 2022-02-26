@@ -61,6 +61,7 @@
 
 ## create moderation service
 - the same as before
-
-## update comment content
+- handle moderation
+- update comment content
+- render comments by status
 

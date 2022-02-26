@@ -46,3 +46,10 @@
 ## receive events
 - handle the events received in post creation and comment creation
 
+## query
+- npm init -y
+- npm install express nodemon axios 
+- create `index.js`
+- configure package.json with `"start": "nodemon index.js"`
+- npm start
+

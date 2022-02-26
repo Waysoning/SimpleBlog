@@ -56,3 +56,6 @@
 ## parse incoming events
 - create data structure to store posts and comments
 
+## use the query service
+- just get the data from query service
+

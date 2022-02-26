@@ -27,7 +27,7 @@
 - npm install cors in both posts and comments
 - npm start
 
-## Write 4 js file
+## Write React js files
 - `PostCreate.js`
 - `PostList.js`
 - `CommentCreate.js`
@@ -58,4 +58,7 @@
 
 ## use the query service
 - just get the data from query service
+
+## create moderation service
+- the same as before
 

@@ -32,3 +32,14 @@
 - `PostList.js`
 - `CommentCreate.js`
 - `CommentList.js`
+
+## event-bus
+- npm init -y
+- npm install express nodemon axios 
+- create `index.js`
+- configure package.json with `"start": "nodemon index.js"`
+- npm start
+
+## emit events
+- emit post creation and comment creation event
+

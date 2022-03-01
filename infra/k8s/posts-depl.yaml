@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: waysoning/posts:0.0.1
+          image: waysoning/posts:latest # the :latest is optional
